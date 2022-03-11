@@ -1,0 +1,16 @@
+﻿ 
+    button.primary {
+        background: #f58733;
+    }
+
+        button.primary:hover {
+            background: #ea6c0b;
+        }
+
+    button.secondary {
+        background: #c1d7aa;
+    }
+
+        button.secondary:hover {
+            background: #a8c787;
+        }
