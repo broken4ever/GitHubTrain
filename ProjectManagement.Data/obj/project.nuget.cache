@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IR9Uy6PE+iKuLxeiV2Avc+gqdyPUfB4h05riCH5j5VvPDB6MyA07+AcOAaiGmI2oFL2VbUl1DC0ECy0bhnJodQ==",
+  "success": false,
+  "projectFilePath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\ProjectManagement.Entities.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\ProjectManagement.Entities.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

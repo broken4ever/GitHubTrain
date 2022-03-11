@@ -1,0 +1,315 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-healthcare.Api.styles.css
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-healthcare.Api.styles.css
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CopyComplete
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.exe
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.deps.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.runtimeconfig.dev.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Data.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Entities.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\bin\Debug\netcoreapp3.1\E-healthcare.Shared.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csprojAssemblyReference.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfoInputs.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.AssemblyInfo.cs
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CoreCompileInputs.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.Manifest.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\E-healthcare.Api.StaticWebAssets.xml
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\E-healthcare.Api.styles.css
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.RazorTargetAssemblyInfo.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.csproj.CopyComplete
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Api\obj\Debug\netcoreapp3.1\E-healthcare.Api.genruntimeconfig.cache

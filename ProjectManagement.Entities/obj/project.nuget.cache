@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6aTmOUOMN2wOQLAkHPSpiMVZq24Bg46+3AEGMmffF3L8z2fjHDCgCEGjuNvwpuUYv1zFX1+9yc+jdLZxnArRDw==",
+  "success": true,
+  "projectFilePath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

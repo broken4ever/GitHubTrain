@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\ProjectManagement.Data.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\ProjectManagement.Data.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\ProjectManagement.Data.Implementation.csproj",
+        "projectName": "ProjectManagement.Data.Implementation",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\ProjectManagement.Data.Implementation.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj",
+        "projectName": "ProjectManagement.Data.Interfaces",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\ProjectManagement.Data.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\ProjectManagement.Entities.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\ProjectManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

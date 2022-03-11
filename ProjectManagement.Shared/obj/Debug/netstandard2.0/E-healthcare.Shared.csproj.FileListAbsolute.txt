@@ -1,0 +1,29 @@
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\FSD\Projects\PhaseTwo\5_Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Users\rajesh_b2\OneDrive - Dell Technologies\Work\Training\FSD\Projects\2_PhaseTwo\Assessment\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb

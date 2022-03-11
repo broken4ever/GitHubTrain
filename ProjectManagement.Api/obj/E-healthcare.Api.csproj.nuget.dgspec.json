@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+        "projectName": "E-healthcare.Api",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj"
+              },
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
+              },
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
+        "projectName": "E-healthcare.Data",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
+              },
+              "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+                "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+        "projectName": "E-healthcare.Entities",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
+        "projectName": "E-healthcare.Shared",
+        "projectPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
+        "packagesPath": "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\",
+        "outputPath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sudhakar_logabiraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "http://teamcity.support-online.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
