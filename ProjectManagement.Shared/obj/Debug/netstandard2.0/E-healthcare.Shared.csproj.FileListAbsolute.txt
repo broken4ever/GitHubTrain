@@ -27,3 +27,12 @@ C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\De
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csprojAssemblyReference.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uJj6aEH1cXl/1t2136z+FHoa4hUMkdmfh8o3L2T1bPj4lt1IEnLnyPZqvtnZyYt4jSwJVUAtZjaxukJNnVXF7w==",
+  "dgSpecHash": "QoIrg2aLwKYs9FCkb7KQbe/tFOOH2Y2enRxlBsNubnp3HuXnESwmOHikvsTc9Kn8lg2jJOxUN7T0G8g1Ni6UMw==",
   "success": true,
-  "projectFilePath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
+  "projectFilePath": "C:\\Bro\\Office\\Projects\\GitHubTrain\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -56,3 +56,17 @@ C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Data.Implemen
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.deps.json
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csprojAssemblyReference.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CoreCompileInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb

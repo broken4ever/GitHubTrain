@@ -28,3 +28,12 @@ C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Entities\obj\
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.CoreCompileInputs.cache
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.dll
 C:\Bro\1GitLab\Training\Refresh\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.deps.json
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csprojAssemblyReference.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfoInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfo.cs
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.CoreCompileInputs.cache
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Bro\Office\Projects\GitHubTrain\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.pdb

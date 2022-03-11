@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6aTmOUOMN2wOQLAkHPSpiMVZq24Bg46+3AEGMmffF3L8z2fjHDCgCEGjuNvwpuUYv1zFX1+9yc+jdLZxnArRDw==",
+  "dgSpecHash": "1GzDi/uAfgjmb+n46YkyrN8luTkNA3pED0HlzJFhk6fqaQljue+6BpS6OqF0ZNKIGALkD1UHzTEXg+ABc0KPTA==",
   "success": true,
-  "projectFilePath": "C:\\Bro\\1GitLab\\Training\\Refresh\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+  "projectFilePath": "C:\\Bro\\Office\\Projects\\GitHubTrain\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sudhakar_logabiraman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
